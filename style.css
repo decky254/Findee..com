@@ -7,7 +7,7 @@ body {
 .container {
     width: 60%;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 40px;
 }
 
 input {
@@ -17,12 +17,19 @@ input {
 }
 
 button {
-    padding: 10px;
     width: 100%;
+    padding: 10px;
     background: #22c55e;
     border: none;
     color: white;
     cursor: pointer;
+}
+
+.card {
+    background: #1e293b;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
 }
 
 a {
